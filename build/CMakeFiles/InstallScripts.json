@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/OOP/OOP_lab_03/build/cmake_install.cmake",
+		"F:/OOP/OOP_lab_03/build/_deps/googletest-build/cmake_install.cmake",
+		"F:/OOP/OOP_lab_03/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"F:/OOP/OOP_lab_03/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

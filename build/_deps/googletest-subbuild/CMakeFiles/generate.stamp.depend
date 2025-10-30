@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+F:/OOP/OOP_lab_03/build/_deps/googletest-subbuild/CMakeFiles/4.1.1/CMakeSystem.cmake
+F:/OOP/OOP_lab_03/build/_deps/googletest-subbuild/CMakeLists.txt
+F:/OOP/OOP_lab_03/build/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-mkdirs.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystem.cmake.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/PatchInfo.txt.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/RepositoryInfo.txt.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/UpdateInfo.txt.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/cfgcmd.txt.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/gitclone.cmake.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/gitupdate.cmake.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/mkdirs.cmake.in
+F:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake
+F:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake

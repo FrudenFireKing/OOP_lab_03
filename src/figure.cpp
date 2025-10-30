@@ -29,7 +29,7 @@ bool Figure::areParallel(double x1, double y1, double x2, double y2,
     double dx1 = x2 - x1, dy1 = y2 - y1;
     double dx2 = x4 - x3, dy2 = y4 - y3;
     
-    // ¬екторы параллельны если их координаты пропорциональны
+    // ѕараллельность координат вектора (если равно, то параллельны)
     return std::abs(dx1 * dy2 - dx2 * dy1) < 1e-10;
 }
 
